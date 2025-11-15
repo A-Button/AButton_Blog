@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Maple Mono NF CN";
+    src:
+        local("Maple Mono NF CN"),
+        local("MapleMonoNFCN"),
+        url("MapleMono-NF-CN-Bold.ttf") format("truetype");
+    font-display: swap;
+    font-style: normal;
+}
