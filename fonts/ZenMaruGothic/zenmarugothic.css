@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Zen Maru Gothic";
+    src:
+        local("Zen Maru Gothic"),
+        local("ZenMaruGothic"),
+        url("ZenMaruGothic-Bold.ttf") format("truetype");
+    font-weight: 750;
+    font-display: swap;
+    font-style: normal;
+    unicode-range: U+0000-007F, U+3000-303F, U+3040-309F, U+30A0-30FF;
+}
